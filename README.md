@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ***AL LIO ***
-https://komarev.com/ghpvc/?username=joanbaldo
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joanbaldo" alt="sofiapinilla" /> </p>
