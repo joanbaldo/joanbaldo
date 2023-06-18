@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-***AL LIO ***
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joanbaldo" alt="sofiapinilla" /> </p>
+![Header](./assets/Joan_header.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joanbaldo" alt="joanbaldo" /> </p>
