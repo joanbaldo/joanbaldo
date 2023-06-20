@@ -5,11 +5,12 @@
 
 <!-- <div align="center"> -->
 [![AgoraFrontend](./assets/Card_Agora_FE.jpg)](https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS) 
+[![AgoraFrontend](./assets/Card_Agora_FE.jpg)](https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS) 
 
 <!-- ![AgoraFrontend](./assets/Card_Agora_FE.jpg)  -->
 <!-- </div> -->
 
-[![Thumbnail](./brand/curso-react18-espanol.png)](https://www.youtube.com/watch?v=o0HwamjhsWw)
+<!-- [![Thumbnail](./brand/curso-react18-espanol.png)](https://www.youtube.com/watch?v=o0HwamjhsWw) -->
 
 
 ![AgoraFrontend](./assets/Card_Agora_FE.jpg)
