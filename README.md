@@ -30,6 +30,5 @@
 </div>
 
 <br>
-<br>
 
 ![skills](./assets/SW_stack_line.jpg)
