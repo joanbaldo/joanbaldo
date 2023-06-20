@@ -4,7 +4,9 @@
 
 
 <!-- <div align="center"> -->
-[![AgoraFrontend](./assets/Card_Agora_FE.jpg)](https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS) 
+<!-- [![AgoraFrontend](./assets/Card_Agora_FE.jpg)](https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS)  -->
+[![AgoraFrontend](./assets/Card_Agora_FE.jpg)](https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS){:target="_blank"}
+
 <!-- ![AgoraFrontend](./assets/Card_Agora_FE.jpg)  -->
 <!-- </div> -->
 
