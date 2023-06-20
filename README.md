@@ -14,10 +14,10 @@
   <img src="./assets/Card_Agora_BE.jpg" alt="AgoraBackend">
 </a>
 <a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS">
-  <img src="./assets/Card_Agora_FE.jpg" alt="AgoraFrontend">
+  <img src="./assets/Card_TheLibr_FE.jpg" alt="AgoraFrontend">
 </a>
 <a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS">
-  <img src="./assets/Card_Agora_BE.jpg" alt="AgoraBackend">
+  <img src="./assets/Card_TheLibr_BE.jpg" alt="AgoraBackend">
 </a>
 <a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS">
   <img src="./assets/Card_Agora_FE.jpg" alt="AgoraFrontend">
@@ -29,6 +29,7 @@
 
 </div>
 
-
+<br>
+<br>
 
 ![skills](./assets/SW_stack_line.jpg)
