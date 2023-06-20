@@ -6,10 +6,16 @@
 <div align="center">
 <!-- [![AgoraFrontend](./assets/Card_Agora_FE.jpg)](https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS)  -->
 <!-- [![AgoraFrontend](./assets/Card_Agora_FE.jpg)](https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS){:target="_blank"} -->
-<a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS" target="_blank">
+<!-- <a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS" target="_blank">
   <img src="./assets/Card_Agora_FE.jpg" alt="AgoraFrontend">
 </a>
 <a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS" target="_blank">
+  <img src="./assets/Card_Agora_FE.jpg" alt="AgoraFrontend">
+</a> -->
+<a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">
+  <img src="./assets/Card_Agora_FE.jpg" alt="AgoraFrontend">
+</a>
+<a href="https://github.com/joanbaldo/Demo_Site_v1_HTML_CSS" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">
   <img src="./assets/Card_Agora_FE.jpg" alt="AgoraFrontend">
 </a>
 
